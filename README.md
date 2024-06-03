@@ -17,3 +17,12 @@ Para usar esse template, siga esses passos:
 2. Inicie o Visual Sudio
 3. Selecione a pasta `SplashScreen`
 4. Execute a aplicação
+
+# Install with git / Instalação com git
+Para instalar usando git, use essas linhas de comando:
+```cmd
+mkdir ScreenLoader
+cd ScreenLoader
+git clone https://github.com/pabloquezado/csharp-screen-loader
+```
+
